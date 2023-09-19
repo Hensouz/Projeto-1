@@ -39,5 +39,8 @@ O DevLinks é um agregador de links para usar como cartão de visitas online.
 
 Esse projeto está sob a licença MIT.
 
+# Considerações
+Meu primeiro projeto no GitHub é uma aplicação web com o propósito de apresentar um pequeno portifólio. Este projeto foi criado como parte do meu aprendizado em algumas tecnologias citadas a cima 🤯. Sinta-se à vontade para contribuir ou fornecer feedback! 🤩
+
 
 # Projeto-1
